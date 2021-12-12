@@ -41,3 +41,16 @@
 
 - [ ] GTX 1650 (macOS does not support recent Nvidia GPUs).
 - [ ] HDMI port (since it's connected to the GTX 1650).
+
+## Installation
+
+### How To Install
+
+- Format your USB "non-bootable" using RUFUS and delete any leftover in USB(autoruns).
+- Create directory "EFI" in your EFI Partition (eg. Pendrive or Haarddrive).
+- Clone this repo and paste contents of "EFI" directory (BOOT and OC) onto created directory.
+- Create a director "com.apple.recovery.boot" in USB.
+- Paste contents of "com.apple.recovery.boot" directory onto created directory.
+- Download [GenSMBIOS](https://github.com/corpnewt/GenSMBIOS) to generate unique SMBIOS information. Run it and select Generate SMBIOS, as model sekect MacBookPro16,4.
+- Open config.plist with [ProperTree](https://github.com/corpnewt/ProperTree) and go to platforminfo > Generic. Set MLB( Board Serial), SystemSerialNumber(Serial), and SystemUUID (SmUUID) to generate values.
+- Boot it!.
