@@ -50,7 +50,7 @@
 - Create directory "EFI" in your EFI Partition (eg. Pendrive or Haarddrive).
 - Clone this repo and paste contents of "EFI" directory (BOOT and OC) onto created directory.
 - Create a director "com.apple.recovery.boot" in USB.
-- Paste contents of "com.apple.recovery.boot" directory onto created directory.
+- Paste contents of Basesystems files downloaded using Opencore onto created directory.
 - Download [GenSMBIOS](https://github.com/corpnewt/GenSMBIOS) to generate unique SMBIOS information. Run it and select Generate SMBIOS, as model sekect MacBookPro16,4.
 - Open config.plist with [ProperTree](https://github.com/corpnewt/ProperTree) and go to platforminfo > Generic. Set MLB( Board Serial), SystemSerialNumber(Serial), and SystemUUID (SmUUID) to generate values.
 - Boot it!.
