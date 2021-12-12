@@ -1,3 +1,0 @@
-.chunklist filter=lfs diff=lfs merge=lfs -text
-.dmgt filter=lfs diff=lfs merge=lfs -text
-.dmg filter=lfs diff=lfs merge=lfs -text
