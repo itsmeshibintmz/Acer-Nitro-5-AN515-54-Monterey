@@ -24,3 +24,20 @@
 | Audio               | Realtek HD Audio ALC255                            |
 | Wifi                | Intel(R) Wireless-AC 9560 160MHz                   |
 | Ethernet            | RealTek RTL8168/8111 PCI-E Gigabit Ethernet        |
+
+## What's working
+
+- [x] Audio (Input & Output)
+- [x] iGPU
+- [x] ACPI Display brightness
+- [x] Ethernet
+- [x] Sleep + Wake
+- [x] Smart Touchpad + Gestures
+- [x] WiFi (2.4Ghz and 5GHz)
+- [x] Native hotkey support with Fn keys
+- [x] iServices (Messages, FaceTime, etc.)
+
+## What's not working
+
+- [ ] GTX 1650 (macOS does not support recent Nvidia GPUs).
+- [ ] HDMI port (since it's connected to the GTX 1650).
