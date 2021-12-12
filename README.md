@@ -11,3 +11,16 @@
 
  <a href="https://github.com/itsmeshibintmz/Acer-Nitro-5-AN515-54-Monterey/blob/main/Screenshots/Screen%20Shot%202021-12-13%20at%204.12.37%20AM.png
 "> <img src="Screenshots/Screen Shot 2021-12-13 at 4.12.37 AM.png" alt="dark mode"></a>
+
+## Configuration
+
+| Specifications      | Details                                            |
+| ------------------- | -------------------------------------------------- |
+| Laptop Model        | AN515-54 59CA                                      |
+| Processor           | Intel® Core™ i5-9300H                              |
+| Graphics            | Intel® UHD Graphics 630 & Nvidia GeForce® GTX 1650 |
+| RAM                 | 16GB DDR4-2666Mhz                                  |
+| Disk                | Micron 2200 1TBb PCIe® NVMe™ & 256 GB WDC SSD      |
+| Audio               | Realtek HD Audio ALC255                            |
+| Wifi                | Intel(R) Wireless-AC 9560 160MHz                   |
+| Ethernet            | RealTek RTL8168/8111 PCI-E Gigabit Ethernet        |
