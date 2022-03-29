@@ -2,7 +2,7 @@
  
  ![](https://visitor-badge.glitch.me/badge?page_id=itsmeshibintmz.Acer-Nitro-5-AN515-54-Monterey) 
  
- macOS Monterey on Acer Nitro 5 AN515-54 with OpenCore 0.7.5 EFI folder.
+ macOS Monterey on Acer Nitro 5 AN515-54 with OpenCore 0.7.8 EFI folder.
 
  # Screesnshots
 
