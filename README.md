@@ -26,7 +26,7 @@ macOS Monterey on Acer Nitro 5 AN515-54 with OpenCore 0.7.8 EFI folder.
 | Processor           | Intel® Core™ i5-9300H                              |
 | Graphics            | Intel® UHD Graphics 630 & Nvidia GeForce® GTX 1650 |
 | RAM                 | 16GB DDR4-2666Mhz                                  |
-| Disk                | Micron 2200 1TBb PCIe® NVMe™ & 256 GB WDC SSD      |
+| Disk                | Micron 2200 1TBb PCIe® NVMe™ & KIOXIA KXG60PNV512G NVME 512 GB SSD      |
 | Audio               | Realtek HD Audio ALC255                            |
 | Wifi                | Intel(R) Wireless-AC 9560 160MHz                   |
 | Ethernet            | RealTek RTL8168/8111 PCI-E Gigabit Ethernet        |
@@ -47,6 +47,7 @@ macOS Monterey on Acer Nitro 5 AN515-54 with OpenCore 0.7.8 EFI folder.
 
 - [ ] GTX 1650 (macOS does not support recent Nvidia GPUs).
 - [ ] HDMI port (since it's connected to the GTX 1650).
+- [ ] Micron 2200 ssd is not supported, have to disable it manually in BIOS before booting.
 
 If anyone interested to buy, DM Me on any of my social mentioned in Profile. I have one to sell.
 
