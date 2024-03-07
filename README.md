@@ -10,7 +10,9 @@ Download Stats
  
 macOS Monterey on Acer Nitro 5 AN515-54 with OpenCore 0.7.8 EFI folder.
 
- # Screesnshots
+ # Screeshots
+ 
+![image](https://github.com/itsmeshibintmz/Acer-Nitro-5-AN515-54-Monterey/assets/52344717/c91a7187-5a8d-4803-a0d8-2b0492dd9fc9)
 
 <a href="https://github.com/itsmeshibintmz/Acer-Nitro-5-AN515-54-Monterey/blob/main/Screenshots/Screen%20Shot%202021-12-13%20at%201.41.37%20AM.png
 "> <img src="Screenshots/Screen Shot 2021-12-13 at 1.41.37 AM.png" alt="dark mode"></a>
